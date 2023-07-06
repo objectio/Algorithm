@@ -6,7 +6,7 @@ int main()
    	int N = 0;
    	int A[1000];
    	cin >> N;
-	int sum = 0;
+	int sum = 0; // on-the-fly
 	int max = 0;
 
    	for (int i = 0; i < N; i++){
